@@ -1,0 +1,1 @@
+This folder will contain any data sets used in the project. Within this folder, have two additional subfolders: “Original Data”, for storing the raw data sets, and “Prepared Data”, for storing any manipulated data sets.
