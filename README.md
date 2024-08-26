@@ -40,10 +40,6 @@ Pleaae see final report located in the "reports" folder.
 ## Author
 Stefano Noventa (aka DataPizzaWizard)
 
-## Acknowledgements
-- CareerFoundry for the project brief and guidance
-- Instacart for making their data available for educational purposes
-
 ---
 
 *Note: This project is based on a fictional scenario and does not reflect real Instacart data or business practices.*
